@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Lion_Tracker1" size="8.200000 8.200000" />
+    <ImageTarget name="Hippo_2" size="8.250000 8.250000" />
+    <ImageTarget name="Giraffe_Texture1" size="8.250000 8.250000" />
+    <ImageTarget name="Elephant06" size="8.250000 5.918478" />
+    <ImageTarget name="Tiger_marker" size="10.000000 10.000000" />
+  </Tracking>
+</QCARConfig>

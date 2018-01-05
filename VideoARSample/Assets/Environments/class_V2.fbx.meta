@@ -1,0 +1,1056 @@
+fileFormatVersion: 2
+guid: 3d0abe97c87905c4193f516913fc2985
+timeCreated: 1506448714
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: arch20_027_008
+    100002: arch20_027_009
+    100004: arch20_027_010
+    100006: arch20_027_011
+    100008: arch20_027_012
+    100010: arch20_027_013
+    100012: arch20_027_014
+    100014: arch20_027_015
+    100016: arch20_027_016
+    100018: arch20_027_07
+    100020: arch20_027_07 1
+    100022: arch20_027_07 10
+    100024: arch20_027_07 11
+    100026: arch20_027_07 12
+    100028: arch20_027_07 13
+    100030: arch20_027_07 14
+    100032: arch20_027_07 15
+    100034: arch20_027_07 16
+    100036: arch20_027_07 17
+    100038: arch20_027_07 18
+    100040: arch20_027_07 19
+    100042: arch20_027_07 2
+    100044: arch20_027_07 20
+    100046: arch20_027_07 21
+    100048: arch20_027_07 22
+    100050: arch20_027_07 23
+    100052: arch20_027_07 24
+    100054: arch20_027_07 25
+    100056: arch20_027_07 26
+    100058: arch20_027_07 27
+    100060: arch20_027_07 28
+    100062: arch20_027_07 29
+    100064: arch20_027_07 3
+    100066: arch20_027_07 30
+    100068: arch20_027_07 31
+    100070: arch20_027_07 32
+    100072: arch20_027_07 33
+    100074: arch20_027_07 34
+    100076: arch20_027_07 35
+    100078: arch20_027_07 36
+    100080: arch20_027_07 37
+    100082: arch20_027_07 38
+    100084: arch20_027_07 39
+    100086: arch20_027_07 4
+    100088: arch20_027_07 40
+    100090: arch20_027_07 5
+    100092: arch20_027_07 6
+    100094: arch20_027_07 7
+    100096: arch20_027_07 8
+    100098: arch20_027_07 9
+    100100: arch24_047_00
+    100102: arch24_047_29
+    100104: arch24_047_30
+    100106: arch24_062_00
+    100108: arch24_062_00 1
+    100110: arch24_062_01
+    100112: arch24_062_01 1
+    100114: arch24_063_05
+    100116: arch24_063_05 1
+    100118: arch24_063_05 2
+    100120: Arch60_004_obj00
+    100122: Arch60_004_obj00 1
+    100124: archmodels79_137_002
+    100126: Archmodels_45_072_1
+    100128: Block:D
+    100130: Block:D 1
+    100132: Block:D 2
+    100134: Block:D 3
+    100136: Block:D 4
+    100138: Block:D 5
+    100140: Block:D 6
+    100142: Block:D 7
+    100144: Block:D 8
+    100146: Block:Range-Oven - 30 in top
+    100148: ChamferBox001
+    100150: ChamferBox002
+    100152: ChamferBox003
+    100154: ChamferBox004
+    100156: ChamferBox005
+    100158: ChamferBox006
+    100160: ChamferBox007
+    100162: ChamferBox008
+    100164: ChamferBox009
+    100166: ChamferBox010
+    100168: ChamferBox011
+    100170: ChamferBox012
+    100172: //RootNode
+    100174: Group02
+    100176: Group02 1
+    100178: Group02 10
+    100180: Group02 11
+    100182: Group02 2
+    100184: Group02 3
+    100186: Group02 4
+    100188: Group02 5
+    100190: Group02 6
+    100192: Group02 7
+    100194: Group02 8
+    100196: Group02 9
+    100198: NGon2111121
+    100200: NGon2111121 1
+    100202: Object047
+    100204: Object048
+    100206: Object055
+    100208: Object056
+    100210: Object060
+    100212: Object063
+    100214: Object064
+    100216: Object065
+    100218: Object066
+    100220: Object067
+    100222: Object068
+    100224: Object069
+    100226: Object070
+    100228: Object071
+    100230: Object072
+    100232: Object073
+    100234: Object074
+    100236: Object075
+    100238: Object076
+    100240: Object077
+    100242: Object078
+    100244: Object079
+    100246: Object098
+    100248: Object099
+    100250: Object100
+    100252: Object101
+    100254: Object102
+    100256: Object103
+    100258: Object104
+    100260: Object105
+    100262: Object106
+    100264: Object107
+    100266: Object108
+    100268: Object109
+    100270: Object110
+    100272: Object111
+    100274: Object112
+    100276: Object113
+    100278: Object114
+    100280: Object115
+    100282: Object116
+    100284: Object117
+    100286: Object118
+    100288: Object119
+    100290: Object120
+    100292: Object121
+    100294: Object122
+    100296: Object123
+    100298: Object124
+    100300: Object125
+    100302: Object126
+    100304: Object127
+    100306: Object128
+    100308: Object129
+    100310: Object130
+    100312: Object131
+    100314: Object132
+    100316: Object133
+    100318: Object134
+    100320: Object135
+    100322: Object136
+    100324: Particle View 01
+    100326: Particle View 01 1
+    100328: Particle View 01 2
+    100330: pCube066
+    100332: pCube075
+    100334: pCube076
+    100336: pCube077
+    100338: pCube078
+    100340: pCube079
+    100342: pCube080
+    100344: pCube081
+    100346: pCube082
+    100348: pCube083
+    100350: pCube084
+    100352: pCube25
+    100354: pCube28
+    100356: pCube29
+    100358: pCube38
+    100360: pCube42
+    100362: pCube43
+    100364: pCube53
+    100366: polySurface100
+    100368: polySurface101
+    100370: polySurface102
+    100372: polySurface103
+    100374: polySurface104
+    100376: polySurface105
+    100378: polySurface132
+    100380: polySurface15
+    100382: polySurface155
+    100384: polySurface156
+    100386: polySurface16
+    100388: polySurface162
+    100390: polySurface163
+    100392: polySurface168
+    100394: polySurface169
+    100396: polySurface17
+    100398: polySurface170
+    100400: polySurface171
+    100402: polySurface172
+    100404: polySurface173
+    100406: polySurface174
+    100408: polySurface175
+    100410: polySurface176
+    100412: polySurface177
+    100414: polySurface178
+    100416: polySurface179
+    100418: polySurface18
+    100420: polySurface180
+    100422: polySurface19
+    100424: polySurface20
+    100426: polySurface21
+    100428: polySurface22
+    100430: polySurface23
+    100432: polySurface24
+    100434: polySurface25
+    100436: polySurface26
+    100438: polySurface27
+    100440: polySurface28
+    100442: polySurface29
+    100444: polySurface30
+    100446: polySurface31
+    100448: polySurface32
+    100450: polySurface33
+    100452: polySurface34
+    100454: polySurface39
+    100456: polySurface61
+    100458: polySurface75
+    100460: polySurface76
+    100462: polySurface77
+    100464: polySurface79
+    100466: polySurface80
+    100468: polySurface81
+    100470: polySurface82
+    100472: polySurface83
+    100474: polySurface84
+    100476: polySurface85
+    100478: polySurface86
+    100480: polySurface87
+    100482: polySurface89
+    100484: polySurface90
+    100486: polySurface91
+    100488: polySurface92
+    100490: polySurface93
+    100492: polySurface94
+    100494: polySurface97
+    100496: polySurface98
+    100498: polySurface99
+    100500: Sphere001
+    100502: transform1
+    100504: transform10
+    100506: transform11
+    100508: transform12
+    100510: transform13
+    100512: transform14
+    100514: transform2
+    100516: transform3
+    100518: transform4
+    100520: transform5
+    100522: transform6
+    100524: transform7
+    100526: transform8
+    100528: transform9
+    100530: VRayLight159
+    100532: VRayLight160
+    100534: VRayLight161
+    100536: VRayLight162
+    100538: VRayLight163
+    100540: VRayLight164
+    100542: VRayLight165
+    100544: VRayLight166
+    100546: VRayLight167
+    100548: VRaySun001
+    100550: VRaySun001.Target
+    400000: arch20_027_008
+    400002: arch20_027_009
+    400004: arch20_027_010
+    400006: arch20_027_011
+    400008: arch20_027_012
+    400010: arch20_027_013
+    400012: arch20_027_014
+    400014: arch20_027_015
+    400016: arch20_027_016
+    400018: arch20_027_07
+    400020: arch20_027_07 1
+    400022: arch20_027_07 10
+    400024: arch20_027_07 11
+    400026: arch20_027_07 12
+    400028: arch20_027_07 13
+    400030: arch20_027_07 14
+    400032: arch20_027_07 15
+    400034: arch20_027_07 16
+    400036: arch20_027_07 17
+    400038: arch20_027_07 18
+    400040: arch20_027_07 19
+    400042: arch20_027_07 2
+    400044: arch20_027_07 20
+    400046: arch20_027_07 21
+    400048: arch20_027_07 22
+    400050: arch20_027_07 23
+    400052: arch20_027_07 24
+    400054: arch20_027_07 25
+    400056: arch20_027_07 26
+    400058: arch20_027_07 27
+    400060: arch20_027_07 28
+    400062: arch20_027_07 29
+    400064: arch20_027_07 3
+    400066: arch20_027_07 30
+    400068: arch20_027_07 31
+    400070: arch20_027_07 32
+    400072: arch20_027_07 33
+    400074: arch20_027_07 34
+    400076: arch20_027_07 35
+    400078: arch20_027_07 36
+    400080: arch20_027_07 37
+    400082: arch20_027_07 38
+    400084: arch20_027_07 39
+    400086: arch20_027_07 4
+    400088: arch20_027_07 40
+    400090: arch20_027_07 5
+    400092: arch20_027_07 6
+    400094: arch20_027_07 7
+    400096: arch20_027_07 8
+    400098: arch20_027_07 9
+    400100: arch24_047_00
+    400102: arch24_047_29
+    400104: arch24_047_30
+    400106: arch24_062_00
+    400108: arch24_062_00 1
+    400110: arch24_062_01
+    400112: arch24_062_01 1
+    400114: arch24_063_05
+    400116: arch24_063_05 1
+    400118: arch24_063_05 2
+    400120: Arch60_004_obj00
+    400122: Arch60_004_obj00 1
+    400124: archmodels79_137_002
+    400126: Archmodels_45_072_1
+    400128: Block:D
+    400130: Block:D 1
+    400132: Block:D 2
+    400134: Block:D 3
+    400136: Block:D 4
+    400138: Block:D 5
+    400140: Block:D 6
+    400142: Block:D 7
+    400144: Block:D 8
+    400146: Block:Range-Oven - 30 in top
+    400148: ChamferBox001
+    400150: ChamferBox002
+    400152: ChamferBox003
+    400154: ChamferBox004
+    400156: ChamferBox005
+    400158: ChamferBox006
+    400160: ChamferBox007
+    400162: ChamferBox008
+    400164: ChamferBox009
+    400166: ChamferBox010
+    400168: ChamferBox011
+    400170: ChamferBox012
+    400172: //RootNode
+    400174: Group02
+    400176: Group02 1
+    400178: Group02 10
+    400180: Group02 11
+    400182: Group02 2
+    400184: Group02 3
+    400186: Group02 4
+    400188: Group02 5
+    400190: Group02 6
+    400192: Group02 7
+    400194: Group02 8
+    400196: Group02 9
+    400198: NGon2111121
+    400200: NGon2111121 1
+    400202: Object047
+    400204: Object048
+    400206: Object055
+    400208: Object056
+    400210: Object060
+    400212: Object063
+    400214: Object064
+    400216: Object065
+    400218: Object066
+    400220: Object067
+    400222: Object068
+    400224: Object069
+    400226: Object070
+    400228: Object071
+    400230: Object072
+    400232: Object073
+    400234: Object074
+    400236: Object075
+    400238: Object076
+    400240: Object077
+    400242: Object078
+    400244: Object079
+    400246: Object098
+    400248: Object099
+    400250: Object100
+    400252: Object101
+    400254: Object102
+    400256: Object103
+    400258: Object104
+    400260: Object105
+    400262: Object106
+    400264: Object107
+    400266: Object108
+    400268: Object109
+    400270: Object110
+    400272: Object111
+    400274: Object112
+    400276: Object113
+    400278: Object114
+    400280: Object115
+    400282: Object116
+    400284: Object117
+    400286: Object118
+    400288: Object119
+    400290: Object120
+    400292: Object121
+    400294: Object122
+    400296: Object123
+    400298: Object124
+    400300: Object125
+    400302: Object126
+    400304: Object127
+    400306: Object128
+    400308: Object129
+    400310: Object130
+    400312: Object131
+    400314: Object132
+    400316: Object133
+    400318: Object134
+    400320: Object135
+    400322: Object136
+    400324: Particle View 01
+    400326: Particle View 01 1
+    400328: Particle View 01 2
+    400330: pCube066
+    400332: pCube075
+    400334: pCube076
+    400336: pCube077
+    400338: pCube078
+    400340: pCube079
+    400342: pCube080
+    400344: pCube081
+    400346: pCube082
+    400348: pCube083
+    400350: pCube084
+    400352: pCube25
+    400354: pCube28
+    400356: pCube29
+    400358: pCube38
+    400360: pCube42
+    400362: pCube43
+    400364: pCube53
+    400366: polySurface100
+    400368: polySurface101
+    400370: polySurface102
+    400372: polySurface103
+    400374: polySurface104
+    400376: polySurface105
+    400378: polySurface132
+    400380: polySurface15
+    400382: polySurface155
+    400384: polySurface156
+    400386: polySurface16
+    400388: polySurface162
+    400390: polySurface163
+    400392: polySurface168
+    400394: polySurface169
+    400396: polySurface17
+    400398: polySurface170
+    400400: polySurface171
+    400402: polySurface172
+    400404: polySurface173
+    400406: polySurface174
+    400408: polySurface175
+    400410: polySurface176
+    400412: polySurface177
+    400414: polySurface178
+    400416: polySurface179
+    400418: polySurface18
+    400420: polySurface180
+    400422: polySurface19
+    400424: polySurface20
+    400426: polySurface21
+    400428: polySurface22
+    400430: polySurface23
+    400432: polySurface24
+    400434: polySurface25
+    400436: polySurface26
+    400438: polySurface27
+    400440: polySurface28
+    400442: polySurface29
+    400444: polySurface30
+    400446: polySurface31
+    400448: polySurface32
+    400450: polySurface33
+    400452: polySurface34
+    400454: polySurface39
+    400456: polySurface61
+    400458: polySurface75
+    400460: polySurface76
+    400462: polySurface77
+    400464: polySurface79
+    400466: polySurface80
+    400468: polySurface81
+    400470: polySurface82
+    400472: polySurface83
+    400474: polySurface84
+    400476: polySurface85
+    400478: polySurface86
+    400480: polySurface87
+    400482: polySurface89
+    400484: polySurface90
+    400486: polySurface91
+    400488: polySurface92
+    400490: polySurface93
+    400492: polySurface94
+    400494: polySurface97
+    400496: polySurface98
+    400498: polySurface99
+    400500: Sphere001
+    400502: transform1
+    400504: transform10
+    400506: transform11
+    400508: transform12
+    400510: transform13
+    400512: transform14
+    400514: transform2
+    400516: transform3
+    400518: transform4
+    400520: transform5
+    400522: transform6
+    400524: transform7
+    400526: transform8
+    400528: transform9
+    400530: VRayLight159
+    400532: VRayLight160
+    400534: VRayLight161
+    400536: VRayLight162
+    400538: VRayLight163
+    400540: VRayLight164
+    400542: VRayLight165
+    400544: VRayLight166
+    400546: VRayLight167
+    400548: VRaySun001
+    400550: VRaySun001.Target
+    2300000: ChamferBox001
+    2300002: ChamferBox002
+    2300004: ChamferBox003
+    2300006: ChamferBox004
+    2300008: ChamferBox005
+    2300010: ChamferBox006
+    2300012: ChamferBox007
+    2300014: ChamferBox008
+    2300016: ChamferBox009
+    2300018: ChamferBox010
+    2300020: ChamferBox011
+    2300022: ChamferBox012
+    2300024: Object055
+    2300026: Object056
+    2300028: Object060
+    2300030: Object063
+    2300032: Object064
+    2300034: Object065
+    2300036: Object066
+    2300038: Object067
+    2300040: Object068
+    2300042: Object069
+    2300044: Object070
+    2300046: Object071
+    2300048: Object072
+    2300050: Object073
+    2300052: Object074
+    2300054: Object075
+    2300056: Object076
+    2300058: Object077
+    2300060: Object078
+    2300062: Object079
+    2300064: Object098
+    2300066: Object099
+    2300068: Object100
+    2300070: Object101
+    2300072: Object102
+    2300074: Object103
+    2300076: Object104
+    2300078: Object105
+    2300080: Object106
+    2300082: Object107
+    2300084: Object108
+    2300086: Object109
+    2300088: Object110
+    2300090: Object111
+    2300092: Object112
+    2300094: Object113
+    2300096: Object114
+    2300098: Object115
+    2300100: Object116
+    2300102: Object117
+    2300104: Object118
+    2300106: Object119
+    2300108: Object120
+    2300110: Object121
+    2300112: Object122
+    2300114: Object123
+    2300116: Object124
+    2300118: Object125
+    2300120: Object126
+    2300122: Object127
+    2300124: Object128
+    2300126: Object129
+    2300128: Object130
+    2300130: Object131
+    2300132: Object132
+    2300134: Object133
+    2300136: Object134
+    2300138: Object135
+    2300140: Object136
+    2300142: pCube066
+    2300144: pCube075
+    2300146: pCube076
+    2300148: pCube077
+    2300150: pCube078
+    2300152: pCube079
+    2300154: pCube080
+    2300156: pCube081
+    2300158: pCube082
+    2300160: pCube083
+    2300162: pCube084
+    2300164: pCube25
+    2300166: pCube28
+    2300168: pCube29
+    2300170: pCube38
+    2300172: pCube42
+    2300174: pCube43
+    2300176: pCube53
+    2300178: polySurface100
+    2300180: polySurface101
+    2300182: polySurface102
+    2300184: polySurface103
+    2300186: polySurface104
+    2300188: polySurface105
+    2300190: polySurface132
+    2300192: polySurface156
+    2300194: polySurface162
+    2300196: polySurface163
+    2300198: polySurface168
+    2300200: polySurface169
+    2300202: polySurface170
+    2300204: polySurface171
+    2300206: polySurface172
+    2300208: polySurface173
+    2300210: polySurface174
+    2300212: polySurface175
+    2300214: polySurface176
+    2300216: polySurface177
+    2300218: polySurface178
+    2300220: polySurface179
+    2300222: polySurface180
+    2300224: polySurface21
+    2300226: polySurface22
+    2300228: polySurface23
+    2300230: polySurface24
+    2300232: polySurface28
+    2300234: polySurface33
+    2300236: polySurface39
+    2300238: polySurface61
+    2300240: polySurface77
+    2300242: polySurface79
+    2300244: polySurface80
+    2300246: polySurface81
+    2300248: polySurface82
+    2300250: polySurface83
+    2300252: polySurface84
+    2300254: polySurface85
+    2300256: polySurface86
+    2300258: polySurface87
+    2300260: polySurface89
+    2300262: polySurface90
+    2300264: polySurface91
+    2300266: polySurface92
+    2300268: polySurface93
+    2300270: polySurface94
+    2300272: polySurface97
+    2300274: polySurface98
+    2300276: polySurface99
+    2300278: Sphere001
+    3300000: ChamferBox001
+    3300002: ChamferBox002
+    3300004: ChamferBox003
+    3300006: ChamferBox004
+    3300008: ChamferBox005
+    3300010: ChamferBox006
+    3300012: ChamferBox007
+    3300014: ChamferBox008
+    3300016: ChamferBox009
+    3300018: ChamferBox010
+    3300020: ChamferBox011
+    3300022: ChamferBox012
+    3300024: Object055
+    3300026: Object056
+    3300028: Object060
+    3300030: Object063
+    3300032: Object064
+    3300034: Object065
+    3300036: Object066
+    3300038: Object067
+    3300040: Object068
+    3300042: Object069
+    3300044: Object070
+    3300046: Object071
+    3300048: Object072
+    3300050: Object073
+    3300052: Object074
+    3300054: Object075
+    3300056: Object076
+    3300058: Object077
+    3300060: Object078
+    3300062: Object079
+    3300064: Object098
+    3300066: Object099
+    3300068: Object100
+    3300070: Object101
+    3300072: Object102
+    3300074: Object103
+    3300076: Object104
+    3300078: Object105
+    3300080: Object106
+    3300082: Object107
+    3300084: Object108
+    3300086: Object109
+    3300088: Object110
+    3300090: Object111
+    3300092: Object112
+    3300094: Object113
+    3300096: Object114
+    3300098: Object115
+    3300100: Object116
+    3300102: Object117
+    3300104: Object118
+    3300106: Object119
+    3300108: Object120
+    3300110: Object121
+    3300112: Object122
+    3300114: Object123
+    3300116: Object124
+    3300118: Object125
+    3300120: Object126
+    3300122: Object127
+    3300124: Object128
+    3300126: Object129
+    3300128: Object130
+    3300130: Object131
+    3300132: Object132
+    3300134: Object133
+    3300136: Object134
+    3300138: Object135
+    3300140: Object136
+    3300142: pCube066
+    3300144: pCube075
+    3300146: pCube076
+    3300148: pCube077
+    3300150: pCube078
+    3300152: pCube079
+    3300154: pCube080
+    3300156: pCube081
+    3300158: pCube082
+    3300160: pCube083
+    3300162: pCube084
+    3300164: pCube25
+    3300166: pCube28
+    3300168: pCube29
+    3300170: pCube38
+    3300172: pCube42
+    3300174: pCube43
+    3300176: pCube53
+    3300178: polySurface100
+    3300180: polySurface101
+    3300182: polySurface102
+    3300184: polySurface103
+    3300186: polySurface104
+    3300188: polySurface105
+    3300190: polySurface132
+    3300192: polySurface156
+    3300194: polySurface162
+    3300196: polySurface163
+    3300198: polySurface168
+    3300200: polySurface169
+    3300202: polySurface170
+    3300204: polySurface171
+    3300206: polySurface172
+    3300208: polySurface173
+    3300210: polySurface174
+    3300212: polySurface175
+    3300214: polySurface176
+    3300216: polySurface177
+    3300218: polySurface178
+    3300220: polySurface179
+    3300222: polySurface180
+    3300224: polySurface21
+    3300226: polySurface22
+    3300228: polySurface23
+    3300230: polySurface24
+    3300232: polySurface28
+    3300234: polySurface33
+    3300236: polySurface39
+    3300238: polySurface61
+    3300240: polySurface77
+    3300242: polySurface79
+    3300244: polySurface80
+    3300246: polySurface81
+    3300248: polySurface82
+    3300250: polySurface83
+    3300252: polySurface84
+    3300254: polySurface85
+    3300256: polySurface86
+    3300258: polySurface87
+    3300260: polySurface89
+    3300262: polySurface90
+    3300264: polySurface91
+    3300266: polySurface92
+    3300268: polySurface93
+    3300270: polySurface94
+    3300272: polySurface97
+    3300274: polySurface98
+    3300276: polySurface99
+    3300278: Sphere001
+    4300000: pCube25
+    4300002: pCube28
+    4300004: pCube29
+    4300006: polySurface39
+    4300008: pCube38
+    4300010: pCube42
+    4300012: pCube43
+    4300014: polySurface79
+    4300016: polySurface80
+    4300018: polySurface81
+    4300020: polySurface82
+    4300022: polySurface83
+    4300024: polySurface84
+    4300026: polySurface85
+    4300028: polySurface86
+    4300030: polySurface87
+    4300032: polySurface89
+    4300034: polySurface90
+    4300036: polySurface91
+    4300038: polySurface92
+    4300040: polySurface93
+    4300042: polySurface94
+    4300044: polySurface97
+    4300046: polySurface98
+    4300048: polySurface99
+    4300050: polySurface100
+    4300052: polySurface101
+    4300054: polySurface102
+    4300056: polySurface103
+    4300058: polySurface104
+    4300060: pCube53
+    4300062: polySurface105
+    4300064: polySurface156
+    4300066: polySurface162
+    4300068: polySurface163
+    4300070: polySurface33
+    4300072: polySurface28
+    4300074: polySurface24
+    4300076: polySurface23
+    4300078: polySurface22
+    4300080: polySurface21
+    4300082: polySurface61
+    4300084: polySurface77
+    4300086: Sphere001
+    4300088: Object055
+    4300090: Object056
+    4300092: Object060
+    4300094: Object063
+    4300096: pCube066
+    4300098: Object064
+    4300100: Object065
+    4300102: Object066
+    4300104: Object067
+    4300106: Object068
+    4300108: Object069
+    4300110: pCube075
+    4300112: Object070
+    4300114: pCube076
+    4300116: Object071
+    4300118: pCube077
+    4300120: Object072
+    4300122: pCube078
+    4300124: Object073
+    4300126: pCube079
+    4300128: Object074
+    4300130: Object075
+    4300132: pCube080
+    4300134: pCube081
+    4300136: Object076
+    4300138: Object077
+    4300140: pCube082
+    4300142: Object078
+    4300144: pCube083
+    4300146: Object079
+    4300148: pCube084
+    4300150: polySurface132
+    4300152: ChamferBox001
+    4300154: ChamferBox002
+    4300156: Object098
+    4300158: polySurface168
+    4300160: Object099
+    4300162: Object100
+    4300164: Object101
+    4300166: Object102
+    4300168: Object103
+    4300170: Object104
+    4300172: Object105
+    4300174: Object106
+    4300176: polySurface169
+    4300178: ChamferBox003
+    4300180: polySurface170
+    4300182: Object107
+    4300184: Object108
+    4300186: Object109
+    4300188: Object110
+    4300190: Object111
+    4300192: Object112
+    4300194: ChamferBox004
+    4300196: polySurface171
+    4300198: ChamferBox005
+    4300200: polySurface172
+    4300202: Object113
+    4300204: Object114
+    4300206: Object115
+    4300208: Object116
+    4300210: Object117
+    4300212: Object118
+    4300214: ChamferBox006
+    4300216: polySurface173
+    4300218: ChamferBox007
+    4300220: polySurface174
+    4300222: Object119
+    4300224: Object120
+    4300226: Object121
+    4300228: Object122
+    4300230: Object123
+    4300232: Object124
+    4300234: ChamferBox008
+    4300236: polySurface175
+    4300238: ChamferBox009
+    4300240: polySurface176
+    4300242: Object125
+    4300244: Object126
+    4300246: Object127
+    4300248: Object128
+    4300250: Object129
+    4300252: Object130
+    4300254: ChamferBox010
+    4300256: polySurface177
+    4300258: ChamferBox011
+    4300260: polySurface178
+    4300262: Object131
+    4300264: Object132
+    4300266: Object133
+    4300268: Object134
+    4300270: Object135
+    4300272: Object136
+    4300274: ChamferBox012
+    4300276: polySurface179
+    4300278: polySurface180
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

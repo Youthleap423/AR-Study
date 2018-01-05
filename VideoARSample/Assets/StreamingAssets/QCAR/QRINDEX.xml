@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="LBFINDEXQR_HindiVyakaranTeesri" size="1.000000 1.000000" />
+    <ImageTarget name="LBFINDEXQR_HindiVyakaranPaanchvi" size="1.000000 1.000000" />
+    <ImageTarget name="LBFINDEXQR_HindiVyakaranNursery" size="1.000000 1.000000" />
+    <ImageTarget name="LBFINDEXQR_HindiVyakaranKG2" size="1.000000 1.000000" />
+    <ImageTarget name="LBFINDEXQR_HindiVyakaranKG1" size="1.000000 1.000000" />
+    <ImageTarget name="LBFINDEXQR_HindiVyakaranFirst" size="1.000000 1.000000" />
+    <ImageTarget name="LBFINDEXQR_HindiVyakaranDusri" size="1.000000 1.000000" />
+    <ImageTarget name="LBFINDEXQR_HindiVyakaranChouthi" size="1.000000 1.000000" />
+    <ImageTarget name="LBFINDEXQR_EngGrammarThird" size="1.000000 1.000000" />
+    <ImageTarget name="LBFINDEXQR_EngGrammarSecond" size="1.000000 1.000000" />
+    <ImageTarget name="LBFINDEXQR_EngGrammarNursery" size="1.000000 1.000000" />
+    <ImageTarget name="LBFINDEXQR_EngGrammarKG2" size="1.000000 1.000000" />
+    <ImageTarget name="LBFINDEXQR_EngGrammarKG1" size="1.000000 1.000000" />
+    <ImageTarget name="LBFINDEXQR_EngGrammarFourth" size="1.000000 1.000000" />
+    <ImageTarget name="LBFINDEXQR_EngGrammarFirst" size="1.000000 1.000000" />
+    <ImageTarget name="LBFINDEXQR_EngGrammarFifth" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>

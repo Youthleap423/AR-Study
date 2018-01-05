@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Test/Scenes/Splash.unity
+    guid: 94e59498b8790204eb9dea060a5200fb
+  - enabled: 1
+    path: Assets/Test/Scenes/Login.unity
+    guid: 4879cc84ad257654a99d3068444a4ea6
+  - enabled: 1
+    path: Assets/Test/Scenes/Registration.unity
+    guid: 018111c8ae7bb6042a15952914da673b
+  - enabled: 1
+    path: Assets/Test/Scenes/ForgetPassword.unity
+    guid: 567aef7652e64224690a1c421c92b597
+  - enabled: 1
+    path: Assets/Test/Scenes/Elephant.unity
+    guid: b93d5117e33434ac982a607eb95551dd
+  - enabled: 1
+    path: Assets/Test/Scenes/Giraffe.unity
+    guid: 631f6590d057b44b6b4048815c5d1b19
+  - enabled: 1
+    path: Assets/Test/Scenes/Hippo.unity
+    guid: 00687bd014898490596e2e75d73b1ac0
+  - enabled: 1
+    path: Assets/Test/Scenes/Lion.unity
+    guid: a4ecd0276bc00446f93e3e1e59b417d5
+  - enabled: 1
+    path: Assets/Test/Scenes/ProfileView.unity
+    guid: 0dd003a3bad63534fbda31c6a81c162a
+  - enabled: 1
+    path: Assets/Test/Scenes/Index.unity
+    guid: 4c241d496c7e2de4f878340dade0f4d7
+  - enabled: 1
+    path: Assets/Test/Scenes/Tiger.unity
+    guid: 21abfef455e694c69814f4d921b2fe9d
+  - enabled: 1
+    path: Assets/Test/Scenes/ui-1.unity
+    guid: 473775f27dd55445a9362878d4222dbf
+  - enabled: 1
+    path: Assets/Test/Scenes/LBFINDEXQR_HindiVyakaranFirst.unity
+    guid: aae9fe7c563651a40a9d232b0723ab90
+  - enabled: 1
+    path: Assets/Test/Scenes/LBFINDEXQR_EngGrammarFirst.unity
+    guid: 79332c198da2dfd45aa2575a2c8c954b
+  - enabled: 1
+    path: Assets/Test/Scenes/LBFINDEXQR_EngGrammarSecond.unity
+    guid: 7f351db3938f2684bac7798b35df6aa4
+  - enabled: 1
+    path: Assets/Test/Scenes/LBFINDEXQR_HindiVyakaranDusri.unity
+    guid: 2b92e611c4dbfe1489c9d38962c36e6a
+  - enabled: 1
+    path: Assets/Test/Scenes/SchoolRegistration.unity
+    guid: 1c14ffbb1ca167246a6f34e6e6651860
+  - enabled: 1
+    path: Assets/Test/Scenes/SchoolProfile.unity
+    guid: 81c642e6ef3b26749be69594228f0c54
+  - enabled: 1
+    path: Assets/Test/Scenes/SchoolLogin.unity
+    guid: e4e2330f3939f2041995e8cbad347aef
+  - enabled: 0
+    path: Assets/DF.unity
+    guid: 1334fc83048d7f143a8cdb4c5f874a15

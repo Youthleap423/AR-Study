@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: a18c40d7e231f4cc482f287557483a42
+timeCreated: 1507371824
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: head1_head
+    100002: head1_neck
+    100004: JAw
+    100006: leftLeg1_LoResFoot
+    100008: leftLeg1_LoResLowerLeg
+    100010: leftLeg1_LoResToe
+    100012: leftLeg1_LoResUpperLeg
+    100014: leftLeg2_LoResFoot
+    100016: leftLeg2_LoResLowerLeg
+    100018: leftLeg2_LoResToe
+    100020: leftLeg2_LoResUpperLeg
+    100022: rightLeg1_LoResFoot
+    100024: rightLeg1_LoResLowerLeg
+    100026: rightLeg1_LoResToe
+    100028: rightLeg1_LoResUpperLeg
+    100030: rightLeg2_LoResFoot
+    100032: rightLeg2_LoResLowerLeg
+    100034: rightLeg2_LoResToe
+    100036: rightLeg2_LoResUpperLeg
+    100038: spine1_loResPelvis
+    100040: spine1_loResSpine1
+    100042: spine1_loResSpine2
+    100044: spine1_loResSpine3
+    100046: tail1_Joint1
+    100048: tail1_Joint2
+    100050: tail1_Joint3
+    100052: tail1_Joint4
+    100054: //RootNode
+    100056: Tiger_unwrap
+    100058: TigerRig
+    400000: head1_head
+    400002: head1_neck
+    400004: JAw
+    400006: leftLeg1_LoResFoot
+    400008: leftLeg1_LoResLowerLeg
+    400010: leftLeg1_LoResToe
+    400012: leftLeg1_LoResUpperLeg
+    400014: leftLeg2_LoResFoot
+    400016: leftLeg2_LoResLowerLeg
+    400018: leftLeg2_LoResToe
+    400020: leftLeg2_LoResUpperLeg
+    400022: rightLeg1_LoResFoot
+    400024: rightLeg1_LoResLowerLeg
+    400026: rightLeg1_LoResToe
+    400028: rightLeg1_LoResUpperLeg
+    400030: rightLeg2_LoResFoot
+    400032: rightLeg2_LoResLowerLeg
+    400034: rightLeg2_LoResToe
+    400036: rightLeg2_LoResUpperLeg
+    400038: spine1_loResPelvis
+    400040: spine1_loResSpine1
+    400042: spine1_loResSpine2
+    400044: spine1_loResSpine3
+    400046: tail1_Joint1
+    400048: tail1_Joint2
+    400050: tail1_Joint3
+    400052: tail1_Joint4
+    400054: //RootNode
+    400056: Tiger_unwrap
+    400058: TigerRig
+    4300000: Tiger_unwrap
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Tiger_unwrap
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

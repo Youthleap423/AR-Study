@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d76b89ff4afc5a04195eab54bc63d331, type: 3}
+  m_Name: VuforiaConfiguration
+  m_EditorClassIdentifier: 
+  vuforia:
+    vuforiaLicenseKey: AYSFwIv/////AAAAACQ6AlpvCUrVsKOvP8nYbUhE6+6podjIR5t3WA+GoqOZF9Fc8DtP0Rk0fE1kzA73bIkZmJAnQeGDVdQ5iajmz6B4V39rGelq/HiWixRcWxDcz19MZ8Su49UdY6BpFsVsOHGutl/KvXiMBC5kDM69wSHibGlx5NyVj1+wiv1lt3DNU62HVsblcn6lBHQjijnYPBntNLNRcKzW7ysoai1WHKH/yoiYbGR/WKBb7/rn91yc/HlIA8hYH4MqgZa3qlXErmxEt916sfbbwacjcJS/4/pEMOe3koDaYB12sf0Lt6wR61SUogxoEKOFDK4QALQpypCk2Z567BbNZqOfc+DSAqLA+pLhzadcFk9yGBWaUVH
+    delayedInitialization: 0
+    cameraDeviceModeSetting: -1
+    maxSimultaneousImageTargets: 1
+    maxSimultaneousObjectTargets: 1
+    useDelayedLoadingObjectTargets: 0
+    cameraDirection: 0
+    mirrorVideoBackground: 0
+  digitalEyewear:
+    cameraOffset: 0.06
+    distortionRenderingMode: 2
+    distortionRenderingLayer: 31
+    eyewearType: 0
+    stereoFramework: 0
+    seeThroughConfiguration: 0
+    viewerName: 
+    viewerManufacturer: 
+    useCustomViewer: 0
+    customViewer:
+      Version: 0
+      Name: 
+      Manufacturer: 
+      ButtonType: 0
+      ScreenToLensDistance: 0
+      InterLensDistance: 0
+      TrayAlignment: 0
+      LensCenterToTrayDistance: 0
+      DistortionCoefficients: {x: 0, y: 0}
+      FieldOfView: {x: 0, y: 0, z: 0, w: 0}
+      ContainsMagnet: 0
+  databaseLoad:
+    dataSetsToLoad:
+    - LBFQR-EngGrammer_Class1
+    dataSetsToActivate:
+    - LBFQR-EngGrammer_Class1
+  videoBackground:
+    clippingMode: 0
+    matteShader: {fileID: 0}
+    videoBackgroundEnabled: 1
+  smartTerrainTracker:
+    autoInitTracker: 1
+    autoStartTracker: 1
+    autoInitBuilder: 1
+    sceneUnitsToMillimeter: 0
+  deviceTracker:
+    autoInitTracker: 0
+    autoStartTracker: 0
+    posePrediction: 0
+    modelCorrectionMode: 0
+    modelTransformEnabled: 0
+    modelTransform: {x: 0, y: 0.1, z: -0.1}
+  webcam:
+    deviceNameSetInEditor: 
+    flipHorizontally: 0
+    turnOffWebCam: 0
+    renderTextureLayer: 30

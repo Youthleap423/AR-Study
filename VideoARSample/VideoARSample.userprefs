@@ -1,0 +1,46 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Test\LoginScript.cs">
+    <Files>
+      <File FileName="Assets\Test\LoginScript.cs" Line="138" Column="2" />
+      <File FileName="Assets\scenechange.cs" Line="1" Column="1" />
+      <File FileName="Assets\Test\DownloadVideoFromUrl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Test\DetachTarget.cs" Line="1" Column="1" />
+      <File FileName="Assets\Vuforia\Scripts\DeviceTrackerBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets\Vuforia\Scripts\VideoBackgroundManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DownloadTrackableEventHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets\Common\SplashAbout\LoadingScreen.cs" Line="1" Column="1" />
+      <File FileName="Assets\Test\ClssromBedrom.cs" Line="1" Column="1" />
+      <File FileName="Assets\Test\ChildProfile.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Test\DownloadedChapters.cs" Line="1" Column="1" />
+      <File FileName="Assets\Test\showHide.cs" Line="1" Column="1" />
+      <File FileName="Assets\hidePanel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Test\UserItemScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\showPanel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\VideoTrackableEventHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets\Vuforia Video Playback\Scripts\VideoPlaybackBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\VideoPlaybackMenuOptions.cs" Line="1" Column="1" />
+      <File FileName="Assets\Test\SplashScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Test\ForgetPasswordScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Test\RotateLoading.cs" Line="1" Column="1" />
+      <File FileName="Assets\Test\RegistraionScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SchoolRegistration.cs" Line="1" Column="1" />
+      <File FileName="Assets\Test\ProfileScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\SchoolNameStore.cs" Line="1" Column="1" />
+      <File FileName="Assets\Test\Constants.cs" Line="1" Column="1" />
+      <File FileName="Assets\Firebase\Editor\AuthDeps.cs" Line="1" Column="1" />
+      <File FileName="Assets\Firebase\Editor\AppDeps.cs" Line="1" Column="1" />
+      <File FileName="Assets\SetSchoolReg.cs" Line="1" Column="1" />
+      <File FileName="Assets\setschoolFalse.cs" Line="1" Column="1" />
+      <File FileName="Assets\activateRegister.cs" Line="1" Column="1" />
+      <File FileName="Assets\Plugins\Android\AndroidManifest.xml" Line="1" Column="1" />
+      <File FileName="Assets\Plugins\Android\Firebase\AndroidManifest.xml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

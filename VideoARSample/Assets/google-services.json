@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "407846238016",
+    "firebase_url": "https://lbf-ar-books.firebaseio.com",
+    "project_id": "lbf-ar-books",
+    "storage_bucket": "lbf-ar-books.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407846238016:android:1b21221f6a9089e0",
+        "android_client_info": {
+          "package_name": "com.LBFARBooks.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407846238016-h0hl4779ua9fkb3vlhm4pe6947qr7sis.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.LBFARBooks.android",
+            "certificate_hash": "179de709992a0fe5c023dcc630a9009ba1c862a2"
+          }
+        },
+        {
+          "client_id": "407846238016-5khcq7lsfbuumg4ahj1rlcq5rgeq6n9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4dDJMu0OiIY6n7oVrDzAjViSCsdLmbm0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407846238016-5khcq7lsfbuumg4ahj1rlcq5rgeq6n9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
